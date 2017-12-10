@@ -1,16 +1,14 @@
 package ru.samsung.itschool.spacearrays;
 
 import android.content.Context;
-import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
 import android.graphics.Color;
-import android.graphics.Matrix;
 import android.graphics.Paint;
 import android.util.AttributeSet;
 import android.view.View;
 
-public class MyDraw extends View {
+public class MyDraw extends View implements View.OnClickListener {
 
 	public MyDraw(Context context, AttributeSet attrs) {
 		super(context, attrs);
@@ -62,8 +60,8 @@ public class MyDraw extends View {
 
 	void drawSky(Canvas canvas)
 	{
-		canvas.drawColor(Color.BLACK);
-		paint.setColor(Color.YELLOW);
+		canvas.drawColor(Color.BLUE);
+		paint.setColor(Color.WHITE);
 		paint.setStrokeWidth(2);
 		for (int i = 0; i < numStars; i++)
 		{
@@ -73,5 +71,10 @@ public class MyDraw extends View {
 		   if (alphaStar[i] < 0) alphaStar[i] = 0;
 		   canvas.drawCircle(xStar[i], yStar[i], 3, paint);
 		}
+	}
+
+	@Override
+	public void onClick(View view) {
+
 	}
 }

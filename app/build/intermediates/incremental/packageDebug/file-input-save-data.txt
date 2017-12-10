@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Fri Dec 08 00:11:43 MSK 2017
+2.base=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\spaceshuttleicon.png
+7.set=ANDROID_RESOURCE
+count=10
+0.file=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\tyty.jpg
+5.base=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\rocket.png
+4.set=ANDROID_RESOURCE
+6.base=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+1.file=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+9.set=ANDROID_RESOURCE
+9.file=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\supretyty.png
+1.set=ANDROID_RESOURCE
+7.base=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=DEX
+0.base=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=A\:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\activity_main.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

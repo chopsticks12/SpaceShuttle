@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
         android:src="@drawable/supretyty"
-        android:alpha=".55"
+        android:alpha=".75"
         tools:ignore="InvalidId" />
 
 

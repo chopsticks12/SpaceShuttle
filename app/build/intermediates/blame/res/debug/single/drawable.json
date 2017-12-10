@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "A:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tyty.jpg",
+        "source": "A:\\SpaceArraysOOP-master\\app\\src\\main\\res\\drawable\\tyty.jpg"
+    },
+    {
+        "merged": "A:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rocket.png",
+        "source": "A:\\SpaceArraysOOP-master\\app\\src\\main\\res\\drawable\\rocket.png"
+    },
+    {
+        "merged": "A:\\SpaceArraysOOP-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\supretyty.png",
+        "source": "A:\\SpaceArraysOOP-master\\app\\src\\main\\res\\drawable\\supretyty.png"
+    },
+    {
+        "merged": "C:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rocket.png",
+        "source": "C:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\src\\main\\res\\drawable\\rocket.png"
+    },
+    {
+        "merged": "C:\\Users\\vladimir.iljin\\StudioProjects\\SpaceArrays\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rocket.png",
+        "source": "C:\\Users\\vladimir.iljin\\StudioProjects\\SpaceArrays\\app\\src\\main\\res\\drawable\\rocket.png"
+    }
+]
